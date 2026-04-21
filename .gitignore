@@ -1,0 +1,8 @@
+
+!renet50_classifier.ipynb
+
+# 模型
+*.pth
+
+*.ipynb
+.vscode/
