@@ -1,0 +1,6 @@
+# 模型
+*.pth
+
+*.ipynb
+!renet50_classifier.ipynb
+settings.js
