@@ -5,5 +5,5 @@
 *.pth
 
 *.ipynb
-
+.vscode
 settings.js
